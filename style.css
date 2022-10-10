@@ -1,0 +1,285 @@
+
+*{
+    box-sizing: border-box;
+  
+}
+@media screen and (max-width: 480px) {
+    .menu {
+      text-align: center;
+      background-color: #80ed99;
+      
+      /* justify-content: space-evenly; */
+      display: block;
+      background-size: cover;
+      justify-content: center;
+      
+      /* display: flex;
+      flex-direction: column; */
+      display: grid;
+    }
+}
+@media screen and (max-width: 480px) {
+.is{
+    text-align: center;
+    display: block;
+}
+}
+
+
+
+.menu{
+    justify-content: center;
+    text-align: center;
+    
+padding-bottom: 53px;
+
+    
+   
+    
+}
+
+
+    
+.menu a{
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+}
+@media screen and (max-width: 820px) {
+.menu a:hover{
+background-color: white;
+}
+}
+.h3{
+    text-align: center;
+    
+}
+@media screen and (max-width: 820px) {
+.h3{
+
+
+display: block;
+
+
+}
+}
+.h3 span{
+    color: #0077b6;
+}
+.p{
+    text-align: center;
+
+}
+.login{
+    text-align: center;
+    
+
+
+}
+.login a{
+    text-decoration: none;
+    
+    border: 2px solid #0077b6;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size:25px;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+.one{
+    background-color: #0077b6;
+    color:white;
+}
+.two{
+    color: #0077b6;
+}
+.body{
+    background-image: url(./images/young-female-maths-geography-teacher-260nw-2063725133\ 1.png);
+    background-size: cover;
+    height: 100vh;
+
+
+}
+@media screen and (max-width: 480px) {
+.body{
+/* justify-content: center; */
+display: block;
+background-position: center;
+background-size: cover;
+/* height: 100vh; */
+/* width: 200vh; */
+/* justify-content: center; */
+/* padding: 90px; */
+}
+}
+.me{
+    padding: 300px;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -210px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+@media screen and (max-width: 480px) {
+.penone{
+text-align: center;
+position:relative;
+width: auto;
+font-size: 40px;
+}
+}
+
+
+.penfour{
+    margin-top: 60px;
+}
+.book{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.man{
+    height: 0px;
+    
+}
+@media screen and (max-width: 480px) {
+    .man{
+display: block;
+height: 30px;
+width: 30px;
+    }
+}
+
+
+
+
+.seemore{
+    text-align: right;
+}
+.seemore a{
+    text-decoration: none;
+    color: black;
+}
+.para h3{
+    text-align: center;
+}
+@media screen and (max-width: 480px) {
+    .para{
+display: block;
+margin-top: 300px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .clock{
+display: block;
+margin-top: 78px;
+/* text-align: center;
+font-size: 10px;
+margin-left: 30px; */
+    }
+}
+@media screen and (max-width: 480px) {
+    .pis{
+display: block;
+width: 10px;
+    }
+}
+
+
+.iconify{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.breast{
+    text-align: center;
+    padding-top: 5px;
+}
+.bush{
+    margin-top: 50px;
+    background: #80ed99;
+    
+}
+.work{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding: 70px;
+}
+.shadow{
+    width: 350px;
+    height: auto;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);  
+    /* padding-left: 100px;
+    padding-right: 100px; */
+    border-left: 1px solid #ddcdcd;
+    border-right: 1px solid #ddcdcd;
+    border-bottom: 1px solid #ddcdcd;
+    border-top: none;
+    justify-content: center;
+    align-items: center;
+    
+    
+   
+
+
+}
+.color{
+    color: orange;
+    text-align: center;
+}
+/* .m{
+    justify-content: center;
+    width: 100%; */
+
+.shadowone{
+    width: 350px;
+    height: 350px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-left: 1px solid #ddcdcd;
+    border-right: 1px solid #ddcdcd;
+    border-bottom: 1px solid #ddcdcd;
+    border-top: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.dip{
+border-radius: 90px;
+}
+.ben{
+    color: orange;
+    margin-top: 200px;
+    /* text-align: center; */
+    align-items: center;
+    margin-top: -100px;
+    justify-content: center;
+    margin-left: 120px;
+}
+.top{
+    display: flex;
+    justify-content: center;
+    border-radius: 90px;
+    margin-left: 100px;
+}
+.m{
+    display: flex;
+    justify-content: space-evenly;
+}
+@media screen and (max-width: 480px) {
+    .m{
+display: block;
+padding: 10px;
+    }
+}
+
+
+
+    
